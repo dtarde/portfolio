@@ -1,4 +1,4 @@
-# Health Check-up Chatbot Example
+# Health Check-up Chatbot
 
 This here is a simple example of how a symptom-checking chatbot may be built using Infermedica API and 300 lines
 of Python code.
